@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Prototyping Functionality</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="./index.css">
+		<link rel="stylesheet" href="./circuit.css">
+		<link rel="stylesheet" href="./table.css">
+		<!--d3-->
+		<script src="https://d3js.org/d3.v5.min.js"></script>
+		<!--jquery-csv-->
+		<script src="jquery-csv.js"></script>
+		<!--Cytoscape-->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.17/cytoscape.js"></script>
+		<!--Sigma-->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.1/sigma.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.js"></script>
+		<script
+		src="https://code.jquery.com/jquery-3.3.1.js"
+		integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+		crossorigin="anonymous"></script>
+		<!-- Tabulator.js -->
+		<link href="https://unpkg.com/tabulator-tables@4.0.4/dist/css/tabulator.min.css" rel="stylesheet">
+		<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.0.4/dist/js/tabulator.min.js"></script>
+		<!-- ag-grid -->
+		<script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.noStyle.js"></script>
+		<link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-grid.css">
+		<link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-theme-balham.css">
+	
+	</head>
+	<header>
+		<h1>Prototyping Functionality</h1>
+	</header>
+	<body>
+		<div class="one" id="tabulator-container">
+		<div id="tabulator-table"></div>
+		</div>
+		<div id="subway-circuit"></div>	
+		<div id="ag-grid-table" class="ag-theme-balham"></div>
+		<div id="asset-circuit"></div>
+		<script type="text/javascript" src="./table.js"></script>
+		<script type="text/javascript" src="./circuit.js"></script>
+	</body>
+	</html>
