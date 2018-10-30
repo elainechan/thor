@@ -1,6 +1,6 @@
 'use strict';
 
-const mtaStopsFile = '../data/mtaStops.csv';
+const mtaStopsFile = './data/mtaStops.csv';
 const nodes = [];
 const getStops = d3.csv(mtaStopsFile)
 		.then(data => {
@@ -30,7 +30,7 @@ const getStops = d3.csv(mtaStopsFile)
 			return nodes;
 	  });
 // define edges using `edges`
-const mtaEdgesNamesFile = '../data/mtaEdgesNames.csv'
+const mtaEdgesNamesFile = './data/mtaEdgesNames.csv'
 const edges = [];
 const getEdges = d3.csv(mtaEdgesNamesFile)
 	.then(data => {
@@ -56,7 +56,7 @@ const getEdges = d3.csv(mtaEdgesNamesFile)
 	});
 
 // Get color schemes
-const mtaColorMapFile = '../data/mtaColorMap.csv';
+const mtaColorMapFile = './data/mtaColorMap.csv';
 const colors = [];
 const getColors = d3.csv(mtaColorMapFile)
 	.then(data => {
