@@ -1,0 +1,495 @@
+station_id,station_name,station_lat,station_lon,asset,company
+101,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583,fused disconnect switch,Naya
+103,238 St,40.884667,-73.90087,potential voltage transformer,Naya
+104,231 St,40.878856,-73.904834,motor,Naya
+106,Marble Hill - 225 St,40.874561,-73.90983100000001,emergency generator,Naya
+107,215 St,40.869444,-73.915279,protective relay connected to current transformer,Naya
+108,207 St,40.864621,-73.91882199999999,bus duct,Naya
+109,Dyckman St,40.860531,-73.925536,emergency generator,Naya
+110,191 St,40.855225,-73.929412,bus duct,Naya
+111,181 St,40.849505,-73.933596,ground earth,Keito
+112,168 St - Washington Hts,40.840556,-73.94013299999999,potential voltage transformer,Keito
+113,157 St,40.834041,-73.94489,fused disconnect switch,Keito
+114,145 St,40.826551,-73.95036,fuse,Keito
+115,137 St - City College,40.822008000000004,-73.953676,overload relay,Elizaberh
+116,125 St,40.815581,-73.958372,current transformer,Elizaberh
+117,116 St - Columbia University,40.807722,-73.96410999999999,battery,Elizaberh
+118,Cathedral Pkwy,40.803967,-73.966847,medium voltage motor starter,Elizaberh
+119,103 St,40.799446,-73.968379,removable drawout circuit breaker,Elizaberh
+120,96 St,40.793919,-73.972323,transformer,Elizaberh
+121,86 St,40.788644,-73.976218,meter center,Elizaberh
+122,79 St,40.783934,-73.979917,emergency generator,Tarha
+123,72 St,40.778453000000006,-73.98196999999999,transformer,Tarha
+124,66 St - Lincoln Center,40.77344,-73.982209,ground earth,Tarha
+125,59 St - Columbus Circle,40.768246999999995,-73.98192900000001,motor,Tarha
+126,50 St,40.761728000000005,-73.98384899999999,load center panelboard,Tarha
+127,Times Sq - 42 St,40.75529,-73.987495,battery,Tarha
+128,34 St - Penn Station,40.750372999999996,-73.991057,ground earth,Noor
+129,28 St,40.747215000000004,-73.993365,disconnect switch,Noor
+130,23 St,40.744081,-73.995657,disconnect switch,Noor
+131,18 St,40.741040000000005,-73.99787099999999,protective relay connected to current transformer,Noor
+132,14 St,40.737826,-74.000201,transfer switch,Noor
+133,Christopher St - Sheridan Sq,40.733422,-74.00290600000001,battery,Noor
+134,Houston St,40.728251,-74.005367,overload relay,Noor
+135,Canal St,40.722854,-74.006277,low voltage motor control,Noor
+136,Franklin St,40.719318,-74.006886,transfer switch,Oralene
+137,Chambers St,40.715478000000004,-74.009266,protective relay connected to current transformer,Oralene
+138,Cortlandt St,40.711835,-74.012188,emergency generator,Oralene
+139,Rector St,40.707513,-74.01378299999999,meter center,Oralene
+140,South Ferry Loop,40.701411,-74.013205,meter center,Rosealina
+201,Wakefield - 241 St,40.903125,-73.85061999999999,potential voltage transformer,Rosealina
+204,Nereid Av,40.898379,-73.854376,protective relay connected to current transformer,Rosealina
+205,233 St,40.893193,-73.857473,ground earth,Rosealina
+206,225 St,40.888022,-73.860341,potential voltage transformer,Rosealina
+207,219 St,40.883895,-73.862633,ground earth,Rosealina
+208,Gun Hill Rd,40.87785,-73.866256,removable drawout circuit breaker,Rosealina
+209,Burke Av,40.871356,-73.867164,capacitor,Rosealina
+210,Allerton Av,40.865462,-73.867352,motor,Rosealina
+211,Pelham Pkwy,40.857192,-73.867615,fuse,Rosealina
+212,Bronx Park East,40.848828000000005,-73.86845699999999,ground earth,Rosealina
+213,E 180 St,40.841894,-73.873488,drawout circuit breaker,Melaney
+214,West Farms Sq - E Tremont Av,40.840295000000005,-73.880049,drawout circuit breaker,Melaney
+215,174 St,40.837288,-73.887734,disconnect switch,Melaney
+216,Freeman St,40.829993,-73.891865,capacitor,Melaney
+217,Simpson St,40.824073,-73.893064,future drawout circuit breaker,Melaney
+218,Intervale Av,40.822181,-73.896736,low voltage motor control,Aleeah
+219,Prospect Av,40.819585,-73.90177,medium voltage motor starter,Aleeah
+220,Jackson Av,40.81649,-73.90780699999999,meter center,Aleeah
+221,3 Av - 149 St,40.816109000000004,-73.917757,instantaneous overcurrent protective relay,Aleeah
+222,149 St - Grand Concourse,40.81841,-73.92671800000001,normally open contact,Tyniqua
+224,135 St,40.814229,-73.94077,transfer switch,Tyniqua
+225,125 St,40.807753999999996,-73.945495,non drawout circuit breaker,Tyniqua
+226,116 St,40.802098,-73.949625,inidicating light,Tyniqua
+227,Central Park North (110 St),40.799075,-73.95182199999999,protective relay connected to current transformer,Tyniqua
+228,Park Pl,40.713051,-74.008811,meter center,Tyniqua
+229,Fulton St,40.709416,-74.006571,disconnect switch,Tyniqua
+230,Wall St,40.706821000000005,-74.0091,protective relay connected to current transformer,Dennice
+231,Clark St,40.697466,-73.993086,transformer,Dennice
+232,Borough Hall,40.693219,-73.989998,ground earth,Dennice
+233,Hoyt St,40.690545,-73.985065,inidicating light,Dennice
+234,Nevins St,40.688246,-73.980492,bus duct,Dennice
+235,Atlantic Av - Barclays Ctr,40.684359,-73.977666,protective relay connected to current transformer,Dennice
+236,Bergen St,40.680828999999996,-73.975098,ground earth,Dennice
+237,Grand Army Plaza,40.675235,-73.971046,disconnect switch,Ausie
+238,Eastern Pkwy - Brooklyn Museum,40.671987,-73.964375,fuse,Ausie
+239,Franklin Av,40.670682,-73.95813100000001,potential voltage transformer,Ausie
+241,President St,40.667883,-73.950683,inidicating light,Ausie
+242,Sterling St,40.662742,-73.95085,motor,Ausie
+243,Winthrop St,40.656652,-73.9502,drawout circuit breaker,Ausie
+244,Church Av,40.650843,-73.949575,removable drawout circuit breaker,Ausie
+245,Beverly Rd,40.645098,-73.948959,normally open contact,Ausie
+246,Newkirk Av,40.639967,-73.948411,fused disconnect switch,Ausie
+247,Flatbush Av - Brooklyn College,40.632836,-73.947642,bus duct,Jerelean
+248,Nostrand Av,40.669847,-73.950466,transfer switch,Jerelean
+249,Kingston Av,40.669399,-73.942161,ground earth,Jerelean
+250,Crown Hts - Utica Av,40.668896999999994,-73.93294200000001,inidicating light,Jerelean
+251,Sutter Av - Rutland Rd,40.664716999999996,-73.92260999999999,instantaneous overcurrent protective relay,Jerelean
+252,Saratoga Av,40.661453,-73.916327,normally closed contact,Jerelean
+253,Rockaway Av,40.662549,-73.908946,transformer,Jerelean
+254,Junius St,40.663515000000004,-73.902447,load center panelboard,Bakar
+255,Pennsylvania Av,40.664635,-73.89489499999999,low voltage motor control,Bakar
+256,Van Siclen Av,40.665449,-73.889395,fused disconnect switch,Bakar
+257,New Lots Av,40.666235,-73.884079,bus duct,Bakar
+301,Harlem - 148 St,40.823879999999996,-73.93647,potential voltage transformer,Kong
+302,145 St,40.820421,-73.936245,ground earth,Kong
+401,Woodlawn,40.886037,-73.878751,ammeter,Kong
+402,Mosholu Pkwy,40.87975,-73.88465500000001,motor,Kong
+405,Bedford Park Blvd - Lehman College,40.873412,-73.890064,future drawout circuit breaker,Yamiyah
+406,Kingsbridge Rd,40.86776,-73.89717399999999,capacitor,Yamiyah
+407,Fordham Rd,40.862803,-73.901034,medium voltage motor starter,Yamiyah
+408,183 St,40.858407,-73.903879,motor,Yamiyah
+409,Burnside Av,40.853453,-73.907684,non drawout circuit breaker,Yamiyah
+410,176 St,40.84848,-73.911794,fused disconnect switch,Yamiyah
+411,Mt Eden Av,40.844434,-73.91468499999999,load center panelboard,Krin
+412,170 St,40.840075,-73.91779100000001,medium voltage motor starter,Krin
+413,167 St,40.835537,-73.9214,future drawout circuit breaker,Krin
+414,161 St - Yankee Stadium,40.827994,-73.925831,disconnect switch,Krin
+415,149 St - Grand Concourse,40.818375,-73.927351,removable drawout circuit breaker,Krin
+416,138 St - Grand Concourse,40.813224,-73.929849,capacitor,Krin
+418,Fulton St,40.710368,-74.009509,capacitor,Krin
+419,Wall St,40.707557,-74.011862,battery,Krin
+420,Bowling Green,40.704817,-74.014065,drawout circuit breaker,Alyxandra
+423,Borough Hall,40.692403999999996,-73.990151,motor,Alyxandra
+501,Eastchester - Dyre Av,40.8883,-73.830834,protective relay connected to current transformer,Alyxandra
+502,Baychester Av,40.878663,-73.83859100000001,normally closed contact,Alyxandra
+503,Gun Hill Rd,40.869526,-73.846384,drawout circuit breaker,Alyxandra
+504,Pelham Pkwy,40.858985,-73.85535899999999,potential voltage transformer,Alyxandra
+505,Morris Park,40.854364000000004,-73.860495,fused disconnect switch,Alyxandra
+601,Pelham Bay Park,40.852462,-73.828121,future drawout circuit breaker,Neon
+602,Buhre Av,40.84681,-73.83256899999999,current transformer,Neon
+603,Middletown Rd,40.843863,-73.836322,motor,Neon
+604,Westchester Sq - E Tremont Av,40.839892,-73.842952,instantaneous overcurrent protective relay,Neon
+606,Zerega Av,40.836488,-73.847036,normally open contact,Neon
+607,Castle Hill Av,40.834255,-73.85122199999999,capacitor,Neon
+608,Parkchester,40.833226,-73.860816,ground earth,Neon
+609,St Lawrence Av,40.831509000000004,-73.86761800000001,load center panelboard,Neon
+610,Morrison Av- Sound View,40.829521,-73.874516,normally open contact,Neon
+611,Elder Av,40.828584,-73.879159,non drawout circuit breaker,Neon
+612,Whitlock Av,40.826525,-73.88628299999999,potential voltage transformer,Neon
+613,Hunts Point Av,40.820948,-73.890549,bus duct,Justyn
+614,Longwood Av,40.816103999999996,-73.896435,drawout circuit breaker,Justyn
+615,E 149 St,40.812118,-73.904098,overload relay,Justyn
+616,E 143 St - St Mary's St,40.808719,-73.907657,load center panelboard,Justyn
+617,Cypress Av,40.805368,-73.91404200000001,fuse,Justyn
+618,Brook Av,40.807565999999994,-73.91924,battery,Justyn
+619,3 Av - 138 St,40.810476,-73.926138,ammeter,Justyn
+621,125 St,40.804138,-73.93759399999999,bus duct,Justyn
+622,116 St,40.798629,-73.94161700000001,low voltage motor control,Justyn
+623,110 St,40.79502,-73.94425,fuse,Justyn
+624,103 St,40.7906,-73.947478,capacitor,Justyn
+625,96 St,40.785672,-73.95107,load center panelboard,Justyn
+626,86 St,40.779492,-73.955589,motor,Alexina
+627,77 St,40.77362,-73.959874,normally closed contact,Alexina
+628,68 St - Hunter College,40.768141,-73.96387,overload relay,Alexina
+629,59 St,40.762526,-73.967967,medium voltage motor starter,Alexina
+630,51 St,40.757107,-73.97192,removable drawout circuit breaker,Alexina
+631,Grand Central - 42 St,40.751776,-73.976848,inidicating light,Alexina
+632,33 St,40.746081,-73.982076,battery,Alexina
+633,28 St,40.74307,-73.984264,non drawout circuit breaker,Alexina
+634,23 St,40.739864000000004,-73.986599,removable drawout circuit breaker,Aurey
+635,14 St - Union Sq,40.734673,-73.989951,fuse,Aurey
+636,Astor Pl,40.730053999999996,-73.99107,transformer,Aurey
+637,Bleecker St,40.725915,-73.994659,medium voltage motor starter,Aurey
+638,Spring St,40.722301,-73.997141,transfer switch,Aurey
+639,Canal St,40.718803,-74.00019300000001,future drawout circuit breaker,Britta
+640,Brooklyn Bridge - City Hall,40.713065,-74.004131,normally open contact,Britta
+701,Flushing - Main St,40.7596,-73.83003000000001,removable drawout circuit breaker,Britta
+702,Mets - Willets Point,40.754622,-73.845625,future drawout circuit breaker,Britta
+705,111 St,40.75173,-73.855334,motor,Britta
+706,103 St - Corona Plaza,40.749865,-73.8627,future drawout circuit breaker,Britta
+707,Junction Blvd,40.749145,-73.869527,motor,Britta
+708,90 St - Elmhurst Av,40.748408000000005,-73.876613,inidicating light,Britta
+709,82 St - Jackson Hts,40.747659000000006,-73.883697,emergency generator,Louellen
+710,74 St - Broadway,40.746848,-73.89139399999999,low voltage motor control,Louellen
+711,69 St,40.746325,-73.896403,battery,Louellen
+712,Woodside - 61 St,40.74563,-73.902984,load center panelboard,Louellen
+713,52 St,40.744149,-73.912549,capacitor,Yvon
+714,46 St,40.743132,-73.918435,disconnect switch,Yvon
+715,40 St,40.743781,-73.92401600000001,inidicating light,Yvon
+716,33 St,40.744587,-73.93099699999999,bus duct,Yvon
+718,Queensboro Plaza,40.750582,-73.940202,removable drawout circuit breaker,Yvon
+719,Court Sq,40.747023,-73.945264,load center panelboard,Yvon
+720,Hunters Point Av,40.742216,-73.948916,overload relay,Yvon
+721,Vernon Blvd - Jackson Av,40.742626,-73.953581,non drawout circuit breaker,Yvon
+723,Grand Central - 42 St,40.751431,-73.97604100000001,fuse,Yvon
+724,5 Av,40.753821,-73.98196300000001,ground earth,Yvon
+725,Times Sq - 42 St,40.755477,-73.987691,capacitor,Yvon
+726,34 St - 11 Av,40.755882,-74.00191,low voltage motor control,Yvon
+901,Grand Central - 42 St,40.752769,-73.979189,transformer,Romellow
+902,Times Sq - 42 St,40.755983,-73.98622900000001,drawout circuit breaker,Romellow
+A02,Inwood - 207 St,40.868072,-73.919899,low voltage motor control,Romellow
+A03,Dyckman St,40.865491,-73.92727099999999,battery,Romellow
+A05,190 St,40.859021999999996,-73.93418,transfer switch,Romellow
+A06,181 St,40.851695,-73.937969,disconnect switch,Romellow
+A07,175 St,40.847390999999995,-73.939704,removable drawout circuit breaker,Romellow
+A09,168 St,40.840719,-73.939561,ground earth,Romellow
+A10,163 St - Amsterdam Av,40.836013,-73.939892,normally closed contact,Romellow
+A11,155 St,40.830518,-73.941514,ground earth,Romellow
+A12,145 St,40.824783000000004,-73.944216,low voltage motor control,Romellow
+A14,135 St,40.817894,-73.947649,inidicating light,Cristan
+A15,125 St,40.811109,-73.952343,non drawout circuit breaker,Cristan
+A16,116 St,40.805085,-73.954882,potential voltage transformer,Cristan
+A17,Cathedral Pkwy (110 St),40.800603,-73.958161,current transformer,Cristan
+A18,103 St,40.796092,-73.961454,transformer,Cristan
+A19,96 St,40.791641999999996,-73.96469599999999,normally closed contact,Marcelous
+A20,86 St,40.785868,-73.96891600000001,normally open contact,Marcelous
+A21,81 St - Museum of Natural History,40.781433,-73.972143,transformer,Marcelous
+A22,72 St,40.775594,-73.97641,meter center,Marcelous
+A24,59 St - Columbus Circle,40.768296,-73.981736,medium voltage motor starter,Marcelous
+A25,50 St,40.762456,-73.985984,transfer switch,Marcelous
+A27,42 St - Port Authority Bus Terminal,40.757308,-73.989735,medium voltage motor starter,Xola
+A28,34 St - Penn Station,40.752287,-73.993391,medium voltage motor starter,Xola
+A30,23 St,40.745906,-73.998041,motor,Xola
+A31,14 St,40.740893,-74.00169,bus duct,Xola
+A32,W 4 St,40.732338,-74.000495,meter center,Xola
+A33,Spring St,40.726227,-74.003739,normally open contact,Xola
+A34,Canal St,40.720824,-74.005229,transformer,Xola
+A36,Chambers St,40.714110999999995,-74.008585,low voltage motor control,Xola
+A38,Fulton St,40.710196999999994,-74.00769100000001,fused disconnect switch,Denicka
+A40,High St,40.699337,-73.990531,bus duct,Denicka
+A41,Jay St - MetroTech,40.692338,-73.987342,drawout circuit breaker,Denicka
+A42,Hoyt - Schermerhorn Sts,40.688484,-73.985001,medium voltage motor starter,Denicka
+A43,Lafayette Av,40.686113,-73.973946,meter center,Denicka
+A44,Clinton - Washington Avs,40.683263000000004,-73.965838,overload relay,Denicka
+A45,Franklin Av,40.68138,-73.956848,ammeter,Denicka
+A46,Nostrand Av,40.680438,-73.95042600000001,non drawout circuit breaker,Denicka
+A47,Kingston - Throop Avs,40.679921,-73.94085799999999,load center panelboard,Denicka
+A48,Utica Av,40.679364,-73.930729,medium voltage motor starter,Denicka
+A49,Ralph Av,40.678822,-73.92078599999999,emergency generator,Malany
+A50,Rockaway Av,40.678340000000006,-73.911946,current transformer,Malany
+A51,Broadway Jct,40.678334,-73.905316,overload relay,Malany
+A52,Liberty Av,40.674541999999995,-73.896548,normally closed contact,Malany
+A53,Van Siclen Av,40.672709999999995,-73.89035799999999,meter center,Malany
+A54,Shepherd Av,40.67413,-73.88075,normally closed contact,Malany
+A55,Euclid Av,40.675377000000005,-73.872106,inidicating light,Malany
+A57,Grant Av,40.677044,-73.86505,current transformer,Malany
+A59,80 St,40.679371,-73.858992,fused disconnect switch,Malany
+A60,88 St,40.679843,-73.85146999999999,future drawout circuit breaker,Malany
+A61,Rockaway Blvd,40.680429,-73.843853,transformer,Malany
+A63,104 St,40.681711,-73.837683,inidicating light,Keyasia
+A64,111 St,40.684331,-73.832163,instantaneous overcurrent protective relay,Keyasia
+A65,Ozone Park - Lefferts Blvd,40.685951,-73.82579799999999,motor,Keyasia
+B04,21 St - Queensbridge,40.754203000000004,-73.942836,load center panelboard,Keyasia
+B06,Roosevelt Island,40.759145000000004,-73.95326,load center panelboard,Keyasia
+B08,Lexington Av/63 St,40.764629,-73.966113,bus duct,Keyasia
+B10,57 St,40.763971999999995,-73.97745,future drawout circuit breaker,Keyasia
+B12,9 Av,40.646291999999995,-73.994324,protective relay connected to current transformer,Keyasia
+B13,Fort Hamilton Pkwy,40.640914,-73.994304,low voltage motor control,Keyasia
+B14,50 St,40.63626,-73.994791,capacitor,Keyasia
+B15,55 St,40.631434999999996,-73.995476,fused disconnect switch,Luta
+B16,62 St,40.626472,-73.996895,load center panelboard,Luta
+B17,71 St,40.619589000000005,-73.998864,fused disconnect switch,Luta
+B18,79 St,40.613501,-74.00061,bus duct,Luta
+B19,18 Av,40.607954,-74.001736,drawout circuit breaker,Luta
+B20,20 Av,40.604556,-73.998168,fused disconnect switch,Luta
+B21,Bay Pkwy,40.601875,-73.993728,normally open contact,Luta
+B22,25 Av,40.597704,-73.986829,future drawout circuit breaker,Luta
+B23,Bay 50 St,40.588840999999995,-73.983765,capacitor,Luta
+D01,Norwood - 205 St,40.874811,-73.878855,transfer switch,Luta
+D03,Bedford Park Blvd,40.873244,-73.88713800000001,low voltage motor control,Luta
+D04,Kingsbridge Rd,40.866978,-73.893509,instantaneous overcurrent protective relay,Luta
+D05,Fordham Rd,40.861296,-73.897749,normally closed contact,Cidnie
+D06,182-183 Sts,40.856093,-73.900741,medium voltage motor starter,Cidnie
+D07,Tremont Av,40.85041,-73.905227,drawout circuit breaker,Cidnie
+D08,174-175 Sts,40.8459,-73.910136,normally closed contact,Cidnie
+D09,170 St,40.839306,-73.9134,fuse,Cidnie
+D10,167 St,40.833771,-73.91844,protective relay connected to current transformer,Cidnie
+D11,161 St - Yankee Stadium,40.827905,-73.925651,protective relay connected to current transformer,Cidnie
+D12,155 St,40.830135,-73.938209,transfer switch,Cidnie
+D13,145 St,40.824783000000004,-73.944216,bus duct,Keenyn
+D14,7 Av,40.762862,-73.981637,normally open contact,Keenyn
+D15,47-50 Sts - Rockefeller Ctr,40.758663,-73.981329,bus duct,Keenyn
+D16,42 St - Bryant Pk,40.754222,-73.984569,fuse,Keenyn
+D17,34 St - Herald Sq,40.749719,-73.98782299999999,normally open contact,Keenyn
+D18,23 St,40.742878000000005,-73.99282099999999,current transformer,Keenyn
+D19,14 St,40.738228,-73.996209,ground earth,Keenyn
+D20,W 4 St,40.732338,-74.000495,emergency generator,Keenyn
+D21,Broadway-Lafayette St,40.725297,-73.996204,overload relay,Devontre
+D22,Grand St,40.718267,-73.993753,inidicating light,Devontre
+D24,Atlantic Av - Barclays Ctr,40.684459999999994,-73.97689,fuse,Devontre
+D25,7 Av,40.67705,-73.972367,bus duct,Devontre
+D26,Prospect Park,40.661614,-73.962246,meter center,Devontre
+D27,Parkside Av,40.655291999999996,-73.961495,battery,Devontre
+D28,Church Av,40.650527000000004,-73.962982,overload relay,Devontre
+D29,Beverley Rd,40.644031,-73.964492,bus duct,Devontre
+D30,Cortelyou Rd,40.640927000000005,-73.963891,motor,Jadein
+D31,Newkirk Plaza,40.635082000000004,-73.962793,transfer switch,Jadein
+D32,Avenue H,40.62927,-73.961639,potential voltage transformer,Jadein
+D33,Avenue J,40.625039,-73.960803,transfer switch,Jadein
+D34,Avenue M,40.617618,-73.959399,transformer,Jadein
+D35,Kings Hwy,40.608670000000004,-73.957734,future drawout circuit breaker,Shamira
+D37,Avenue U,40.5993,-73.955929,protective relay connected to current transformer,Shamira
+D38,Neck Rd,40.595246,-73.955161,ground earth,Shamira
+D39,Sheepshead Bay,40.586896,-73.954155,removable drawout circuit breaker,Shamira
+D40,Brighton Beach,40.577621,-73.961376,fused disconnect switch,Shamira
+D41,Ocean Pkwy,40.576312,-73.968501,fused disconnect switch,Elise
+D42,W 8 St - NY Aquarium,40.576127,-73.975939,inidicating light,Elise
+D43,Coney Island - Stillwell Av,40.577422,-73.98123299999999,drawout circuit breaker,Elise
+E01,World Trade Center,40.712582,-74.009781,overload relay,Elise
+F01,Jamaica - 179 St,40.712646,-73.783817,motor,Elise
+F02,169 St,40.71047,-73.793604,load center panelboard,Elise
+F03,Parsons Blvd,40.707564,-73.803326,drawout circuit breaker,Elise
+F04,Sutphin Blvd,40.705459999999995,-73.81070799999999,ground earth,Elise
+F05,Briarwood - Van Wyck Blvd,40.709179,-73.820574,drawout circuit breaker,Elise
+F06,Kew Gardens - Union Tpke,40.714441,-73.831008,transformer,Elise
+F07,75 Av,40.718331,-73.837324,future drawout circuit breaker,Nyllah
+F09,Court Sq,40.747846,-73.946,fused disconnect switch,Nyllah
+F11,Lexington Av/53 St,40.757552000000004,-73.96905500000001,fused disconnect switch,Nyllah
+F12,5 Av/53 St,40.760166999999996,-73.975224,ground earth,Nyllah
+F14,2 Av,40.723402,-73.989938,protective relay connected to current transformer,Nyllah
+F15,Delancey St,40.718610999999996,-73.988114,future drawout circuit breaker,Nyllah
+F16,East Broadway,40.713715,-73.990173,load center panelboard,Nyllah
+F18,York St,40.701397,-73.986751,fuse,Nyllah
+F20,Bergen St,40.686145,-73.99086199999999,removable drawout circuit breaker,Nyllah
+F21,Carroll St,40.680303,-73.995048,meter center,Delfreda
+F22,Smith - 9 Sts,40.67358,-73.995959,normally closed contact,Delfreda
+F23,4 Av,40.670272,-73.989779,instantaneous overcurrent protective relay,Delfreda
+F24,7 Av,40.666271,-73.980305,bus duct,Delfreda
+F25,15 St - Prospect Park,40.660365000000006,-73.979493,overload relay,Delfreda
+F26,Fort Hamilton Pkwy,40.650782,-73.975776,removable drawout circuit breaker,Delfreda
+F27,Church Av,40.644040999999994,-73.979678,removable drawout circuit breaker,Delfreda
+F29,Ditmas Av,40.636119,-73.978172,motor,Delfreda
+F30,18 Av,40.629754999999996,-73.97697099999999,emergency generator,Delfreda
+F31,Avenue I,40.625322,-73.976127,capacitor,Delfreda
+F32,Bay Pkwy,40.620769,-73.975264,battery,Delfreda
+F33,Avenue N,40.615140000000004,-73.974197,transformer,Delfreda
+F34,Avenue P,40.608944,-73.973022,instantaneous overcurrent protective relay,Dajahn
+F35,Kings Hwy,40.603217,-73.97236099999999,drawout circuit breaker,Dajahn
+F36,Avenue U,40.596063,-73.973357,fuse,Dajahn
+F38,Avenue X,40.589620000000004,-73.97425,overload relay,Dajahn
+F39,Neptune Av,40.581011,-73.974574,overload relay,Dajahn
+G05,Jamaica Center - Parsons/Archer,40.702147,-73.801109,drawout circuit breaker,Dajahn
+G06,Sutphin Blvd - Archer Av - JFK Airport,40.700486,-73.807969,removable drawout circuit breaker,Dajahn
+G07,Jamaica - Van Wyck,40.702566,-73.816859,transformer,Dajahn
+G08,Forest Hills - 71 Av,40.721691,-73.844521,potential voltage transformer,Dajahn
+G09,67 Av,40.726523,-73.852719,current transformer,Dajahn
+G10,63 Dr - Rego Park,40.729846,-73.861604,transfer switch,Dajahn
+G11,Woodhaven Blvd,40.733106,-73.869229,inidicating light,Dajahn
+G12,Grand Av - Newtown,40.737015,-73.877223,transformer,Airelle
+G13,Elmhurst Av,40.742453999999995,-73.882017,load center panelboard,Airelle
+G14,Jackson Hts - Roosevelt Av,40.746644,-73.891338,removable drawout circuit breaker,Airelle
+G15,65 St,40.749669,-73.898453,removable drawout circuit breaker,Airelle
+G16,Northern Blvd,40.752885,-73.906006,non drawout circuit breaker,Airelle
+G18,46 St,40.756312,-73.913333,motor,Airelle
+G19,Steinway St,40.756879,-73.92074000000001,bus duct,Marchetta
+G20,36 St,40.752039,-73.928781,transformer,Marchetta
+G21,Queens Plaza,40.748973,-73.93724300000001,current transformer,Marchetta
+G22,Court Sq,40.746553999999996,-73.943832,removable drawout circuit breaker,Marchetta
+G24,21 St,40.744065,-73.949724,removable drawout circuit breaker,Marchetta
+G26,Greenpoint Av,40.731352,-73.954449,bus duct,Marchetta
+G28,Nassau Av,40.724635,-73.951277,normally open contact,Marchetta
+G29,Metropolitan Av,40.712792,-73.951418,emergency generator,Marchetta
+G30,Broadway,40.706092,-73.95030799999999,capacitor,Marchetta
+G31,Flushing Av,40.700377,-73.950234,protective relay connected to current transformer,Marchetta
+G32,Myrtle - Willoughby Avs,40.694568,-73.949046,fused disconnect switch,Marchetta
+G33,Bedford - Nostrand Avs,40.689627,-73.95352199999999,overload relay,Marchetta
+G34,Classon Av,40.688873,-73.96007,protective relay connected to current transformer,Raea
+G35,Clinton - Washington Avs,40.688089,-73.96683900000001,drawout circuit breaker,Raea
+G36,Fulton St,40.687119,-73.975375,load center panelboard,Raea
+H01,Aqueduct Racetrack,40.668234000000005,-73.834058,disconnect switch,Raea
+H02,Aqueduct - N Conduit Av,40.668234000000005,-73.834058,transfer switch,Raea
+H03,Howard Beach - JFK Airport,40.660476,-73.830301,transfer switch,Raea
+H04,Broad Channel,40.608382,-73.815925,normally closed contact,Raea
+H06,Beach 67 St,40.590927,-73.796924,normally closed contact,Raea
+H07,Beach 60 St,40.592374,-73.788522,inidicating light,Raea
+H08,Beach 44 St,40.592943,-73.776013,protective relay connected to current transformer,Geri
+H09,Beach 36 St,40.595397999999996,-73.768175,removable drawout circuit breaker,Geri
+H10,Beach 25 St,40.600066,-73.761353,medium voltage motor starter,Geri
+H11,Far Rockaway - Mott Av,40.603995,-73.75540500000001,removable drawout circuit breaker,Geri
+H12,Beach 90 St,40.588034,-73.813641,overload relay,Geri
+H13,Beach 98 St,40.585307,-73.82055799999999,meter center,Geri
+H14,Beach 105 St,40.583209000000004,-73.827559,drawout circuit breaker,Geri
+H15,Rockaway Park - Beach 116 St,40.580903,-73.835592,emergency generator,Geri
+J12,121 St,40.700492,-73.828294,ammeter,Geri
+J13,111 St,40.697418,-73.836345,bus duct,Geri
+J14,104 St,40.695178000000006,-73.84433,fused disconnect switch,Geri
+J15,Woodhaven Blvd,40.693878999999995,-73.851576,emergency generator,Germar
+J16,85 St - Forest Pkwy,40.692434999999996,-73.86001,protective relay connected to current transformer,Germar
+J17,75 St,40.691324,-73.867139,medium voltage motor starter,Germar
+J19,Cypress Hills,40.689941,-73.87255,battery,Germar
+J20,Crescent St,40.683194,-73.873785,fuse,Corneall
+J21,Norwood Av,40.68141,-73.880039,emergency generator,Corneall
+J22,Cleveland St,40.679947,-73.884639,transformer,Corneall
+J23,Van Siclen Av,40.678024,-73.891688,fuse,Corneall
+J24,Alabama Av,40.676992,-73.89865400000001,disconnect switch,Corneall
+J27,Broadway Jct,40.679497999999995,-73.904512,motor,Corneall
+J28,Chauncey St,40.682893,-73.91045600000001,current transformer,Corneall
+J29,Halsey St,40.686370000000004,-73.91655899999999,current transformer,Onis
+J30,Gates Av,40.68963,-73.92227,ammeter,Onis
+J31,Kosciuszko St,40.693342,-73.928814,meter center,Onis
+L01,8 Av,40.739777000000004,-74.002578,drawout circuit breaker,Onis
+L02,6 Av,40.737334999999995,-73.996786,removable drawout circuit breaker,Onis
+L03,Union Sq - 14 St,40.734789,-73.99073,low voltage motor control,Onis
+L05,3 Av,40.732849,-73.986122,meter center,Onis
+L06,1 Av,40.730953,-73.981628,ground earth,Onis
+L08,Bedford Av,40.717304,-73.956872,load center panelboard,Duilio
+L10,Lorimer St,40.714063,-73.950275,inidicating light,Duilio
+L11,Graham Av,40.714565,-73.944053,capacitor,Duilio
+L12,Grand St,40.711926,-73.94067,protective relay connected to current transformer,Duilio
+L13,Montrose Av,40.707739000000004,-73.93985,future drawout circuit breaker,Duilio
+L14,Morgan Av,40.706152,-73.93314699999999,overload relay,Duilio
+L15,Jefferson St,40.706607,-73.922913,non drawout circuit breaker,Duilio
+L16,DeKalb Av,40.703811,-73.918425,protective relay connected to current transformer,Jiro
+L17,Myrtle - Wyckoff Avs,40.699814,-73.911586,potential voltage transformer,Jiro
+L19,Halsey St,40.695602,-73.904084,potential voltage transformer,Jiro
+L20,Wilson Av,40.688764,-73.904046,removable drawout circuit breaker,Jiro
+L21,Bushwick Av - Aberdeen St,40.682829,-73.905249,load center panelboard,Jiro
+L22,Broadway Jct,40.678856,-73.90324,motor,Jiro
+L24,Atlantic Av,40.675345,-73.903097,inidicating light,Jiro
+L25,Sutter Av,40.669367,-73.901975,removable drawout circuit breaker,Jiro
+L26,Livonia Av,40.664038,-73.900571,inidicating light,Jiro
+L27,New Lots Av,40.658733000000005,-73.899232,instantaneous overcurrent protective relay,Jiro
+L28,E 105 St,40.650573,-73.899485,bus duct,Jiro
+L29,Canarsie - Rockaway Pkwy,40.646654,-73.90185,ground earth,Jiro
+M01,Middle Village - Metropolitan Av,40.711396,-73.889601,future drawout circuit breaker,Tyjah
+M04,Fresh Pond Rd,40.706185999999995,-73.895877,normally closed contact,Tyjah
+M05,Forest Av,40.704423,-73.903077,low voltage motor control,Tyjah
+M06,Seneca Av,40.702762,-73.90774,capacitor,Tyjah
+M08,Myrtle - Wyckoff Avs,40.69943,-73.912385,meter center,Tyjah
+M09,Knickerbocker Av,40.698664,-73.91971099999999,protective relay connected to current transformer,Tyjah
+M10,Central Av,40.697857,-73.927397,overload relay,Tyjah
+M11,Myrtle Av,40.697207,-73.93565699999999,overload relay,Tyjah
+M12,Flushing Av,40.70026,-73.941126,fuse,Merolla
+M13,Lorimer St,40.703869,-73.947408,capacitor,Merolla
+M14,Hewes St,40.70687,-73.95343100000001,fuse,Merolla
+M16,Marcy Av,40.708359,-73.957757,drawout circuit breaker,Merolla
+M18,Essex St,40.718315000000004,-73.987437,medium voltage motor starter,Merolla
+M19,Bowery,40.720279999999995,-73.993915,emergency generator,Merolla
+M20,Canal St,40.718092,-73.999892,normally closed contact,Merolla
+M21,Chambers St,40.713243,-74.003401,non drawout circuit breaker,Merolla
+M22,Fulton St,40.710374,-74.007582,protective relay connected to current transformer,Merolla
+M23,Broad St,40.706476,-74.01105600000001,normally closed contact,Merolla
+N02,8 Av,40.635064,-74.011719,fused disconnect switch,Merolla
+N03,Fort Hamilton Pkwy,40.631386,-74.005351,low voltage motor control,Merolla
+N04,New Utrecht Av,40.624842,-73.996353,overload relay,Teghan
+N05,18 Av,40.620671,-73.990414,fuse,Teghan
+N06,20 Av,40.61741,-73.985026,removable drawout circuit breaker,Teghan
+N07,Bay Pkwy,40.611815,-73.981848,normally open contact,Teghan
+N08,Kings Hwy,40.603922999999995,-73.98035300000001,battery,Teghan
+N09,Avenue U,40.597473,-73.979137,low voltage motor control,Teghan
+N10,86 St,40.592721000000004,-73.97823000000001,overload relay,Teghan
+Q01,Canal St,40.718383,-74.00046,capacitor,Teghan
+R01,Astoria - Ditmars Blvd,40.775036,-73.91203399999999,potential voltage transformer,Mallery
+R03,Astoria Blvd,40.770258,-73.917843,disconnect switch,Mallery
+R04,30 Av,40.766779,-73.921479,ground earth,Mallery
+R05,Broadway,40.76182,-73.925508,low voltage motor control,Mallery
+R06,36 Av,40.756803999999995,-73.929575,fused disconnect switch,Mallery
+R08,39 Av,40.752882,-73.932755,current transformer,Mallery
+R09,Queensboro Plaza,40.750582,-73.940202,protective relay connected to current transformer,Mallery
+R11,Lexington Av/59 St,40.76266,-73.967258,inidicating light,Mallery
+R13,5 Av/59 St,40.764811,-73.973347,load center panelboard,Mallery
+R14,57 St - 7 Av,40.764664,-73.98065799999999,ammeter,Mallery
+R15,49 St,40.759901,-73.984139,current transformer,Mallery
+R16,Times Sq - 42 St,40.754672,-73.986754,potential voltage transformer,Kenshayla
+R17,34 St - Herald Sq,40.749567,-73.98795,bus duct,Kenshayla
+R18,28 St,40.745494,-73.988691,potential voltage transformer,Kenshayla
+R19,23 St,40.741303,-73.98934399999999,meter center,Kenshayla
+R20,14 St - Union Sq,40.735735999999996,-73.99056800000001,instantaneous overcurrent protective relay,Lavoid
+R21,8 St - NYU,40.730328,-73.99262900000001,motor,Lavoid
+R22,Prince St,40.724329,-73.997702,normally open contact,Lavoid
+R23,Canal St,40.719527,-74.001775,removable drawout circuit breaker,Lavoid
+R24,City Hall,40.713282,-74.006978,current transformer,Jayelin
+R25,Cortlandt St,40.710668,-74.01102900000001,instantaneous overcurrent protective relay,Jayelin
+R26,Rector St,40.70722,-74.01334200000001,non drawout circuit breaker,Jayelin
+R27,Whitehall St,40.703087,-74.01299399999999,transformer,Jayelin
+R28,Court St,40.6941,-73.991777,instantaneous overcurrent protective relay,Jayelin
+R29,Jay St - MetroTech,40.69218,-73.98594200000001,battery,Jayelin
+R30,DeKalb Av,40.690635,-73.981824,bus duct,Jayelin
+R31,Atlantic Av - Barclays Ctr,40.683665999999995,-73.97881,load center panelboard,Jayelin
+R32,Union St,40.677316,-73.98311,fuse,Jayelin
+R33,9 St,40.670846999999995,-73.988302,overload relay,Jayelin
+R34,Prospect Av,40.665414,-73.99287199999999,motor,Jayelin
+R35,25 St,40.660396999999996,-73.998091,normally closed contact,Amneet
+R36,36 St,40.655144,-74.00354899999999,protective relay connected to current transformer,Amneet
+R39,45 St,40.648939,-74.010006,transfer switch,Amneet
+R40,53 St,40.645069,-74.014034,fuse,Amneet
+R41,59 St,40.641362,-74.017881,removable drawout circuit breaker,Amneet
+R42,Bay Ridge Av,40.634966999999996,-74.023377,drawout circuit breaker,Amneet
+R43,77 St,40.629742,-74.02551,inidicating light,Amneet
+R44,86 St,40.622687,-74.028398,capacitor,Amneet
+R45,Bay Ridge - 95 St,40.616622,-74.030876,future drawout circuit breaker,Amneet
+S01,Franklin Av,40.680596,-73.955827,ground earth,Amneet
+S03,Park Pl,40.674772,-73.957624,bus duct,Amneet
+S04,Botanic Garden,40.670343,-73.959245,disconnect switch,Eluteria
+S09,Tottenville,40.512764000000004,-74.251961,normally closed contact,Eluteria
+S10,Atlantic,40.515401000000004,-74.245689,low voltage motor control,Eluteria
+S12,Nassau,40.517812,-74.238373,disconnect switch,Eluteria
+S13,Richmond Valley,40.519631,-74.229141,bus duct,Eluteria
+S14,Pleasant Plains,40.52241,-74.21784699999999,load center panelboard,Eluteria
+S15,Prince's Bay,40.525507,-74.200064,meter center,Eluteria
+S16,Huguenot,40.533674,-74.19179399999999,motor,Eluteria
+S17,Annadale,40.540459999999996,-74.178217,inidicating light,Eluteria
+S18,Eltingville,40.544601,-74.16457,low voltage motor control,Eluteria
+S19,Great Kills,40.551231,-74.151399,fused disconnect switch,Eluteria
+S20,Bay Terrace,40.5564,-74.136907,capacitor,Alondo
+S21,Oakwood Heights,40.56511,-74.12631999999999,normally closed contact,Alondo
+S22,New Dorp,40.573479999999996,-74.11721,bus duct,Alondo
+S23,Grant City,40.578965000000004,-74.10970400000001,ground earth,Alondo
+S24,Jefferson Av,40.583591,-74.103338,instantaneous overcurrent protective relay,Alondo
+S25,Dongan Hills,40.588848999999996,-74.09609,non drawout circuit breaker,Alondo
+S26,Old Town,40.596612,-74.08736800000001,normally closed contact,Brunhilda
+S27,Grasmere,40.603117,-74.084087,battery,Brunhilda
+S28,Clifton,40.621319,-74.071402,protective relay connected to current transformer,Brunhilda
+S29,Stapleton,40.627915,-74.075162,meter center,Brunhilda
+S30,Tompkinsville,40.636949,-74.074835,capacitor,Imanee
+S31,St George,40.643747999999995,-74.073643,fused disconnect switch,Imanee
