@@ -80,7 +80,7 @@ function initCy(then) {
 	// Adds icons to nodes
 	cy.nodes().forEach(node => {
 		let asset = node.data('asset');
-		let name = asset.replace(' ', '-') + '-symbol'
+		let name = asset.replace(/\s+/g, '-') + '-symbol'
 		console.log(name);
 		node.style({
 			'background-image': `./icons/electric/${name}.png`

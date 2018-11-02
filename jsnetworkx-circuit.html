@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 	<html>
 	<head>
-		<title>Circuit Functionality</title>
+		<title>JSNetworkX Circuit</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="./index.css">
-		<link rel="stylesheet" href="./cytoscape-subway.css">
+		<!--JSNetworkX-->
+		<script src="jsnetworkx.js"></script>
 		<!--jQuery-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
 		<link rel="stylesheet" href="./cytoscape-subway.css">
 		<!--Fontawesome-->
@@ -18,6 +20,13 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<!--Alchemy-->
+		<link rel="stylesheet" href="http://cdn.graphalchemist.com/alchemy.min.css">
+		<script type="text/javascript" src="http://cdn.graphalchemist.com/alchemy.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/alchemy.min.js"></script>
+ 		 <script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/scripts/vendor.js"></script>
+		<!--Lodash-->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.core.js"></script>
 		<!--d3-->
 		<script src="https://d3js.org/d3.v5.min.js"></script>
 		<!--Cytoscape-->
@@ -29,10 +38,11 @@
 		src="https://code.jquery.com/jquery-3.3.1.js"
 		integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
 		crossorigin="anonymous"></script>
+		<script src="jsnetworkx.js"></script>
 	
 	</head>
 	<header>
-		<h1>Circuit Functionality</h1>
+		<h1>JSNetworkX</h1>
 		<a href="./cytoscape-subway.html">Subway</a>
 		<a href="./cytoscape-circuit.html">Circuit</a>
 		<a href="./cytoscape-sld.html">Cytoscape Single Line</a>
@@ -40,6 +50,7 @@
 		<a href="./jsnetworkx-circuit.html">JSNetworkX Circuit</a>
 	</header>
 	<body>
-
+		<div id="jsnetworkx" class="jsnetworkx"></div>
+		<script type="text/javascript" src="./jsnetworkx-circuit.js"></script>
 	</body>
 	</html>

@@ -10,6 +10,10 @@ h1 {
 	text-align: center;
 }
 
+a {
+  margin-left: 20px;
+}
+
 #cytoscape-subway {
 	margin: auto;
   width: 1400px;
